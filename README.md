@@ -33,7 +33,7 @@ This is a simple web-based chat application that incorporates cyberbullying dete
 - Hirantha Ranathunga
 - Kawishka Buddhi
 - Uditha Jayalath
-- Niruni Karunarathna
+- Niruni Karunanayaka
 - Rahal Mahawaththa
 
 ## License
