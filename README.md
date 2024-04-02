@@ -18,7 +18,7 @@ This is a simple web-based chat application that incorporates cyberbullying dete
 - **NLTK:** Natural Language Toolkit for text preprocessing.
 
 ## Setup
-1. Clone the repository to your local machine: `git clone [<repository_url>](https://github.com/ghstkillrD/Cyber-Bullying-Detection-System.git)`
+1. Clone the repository to your local machine: `git clone [https://github.com/ghstkillrD/Cyber-Bullying-Detection-System.git]`
 2. Install the required Python packages: `pip install -r requirements.txt`
 3. Run the Flask server: `python main.py`
 4. Open your web browser and navigate to `http://localhost:5000` to access the chat application.
