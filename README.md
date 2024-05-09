@@ -35,6 +35,3 @@ This is a simple web-based chat application that incorporates cyberbullying dete
 - Uditha Jayalath
 - Niruni Karunanayaka
 - Rahal Mahawaththa
-
-## License
-This project is licensed under the MIT License.
